@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mergesort", "mergesort\mergesort.vcxproj", "{A4D83DEE-2C2D-44A1-B150-D0EAD7FD3106}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "inversion_count", "inversion_count\inversion_count.vcxproj", "{CC8A2B35-16A1-4A4B-861D-282966CAE91D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{A4D83DEE-2C2D-44A1-B150-D0EAD7FD3106}.Release|x64.Build.0 = Release|x64
 		{A4D83DEE-2C2D-44A1-B150-D0EAD7FD3106}.Release|x86.ActiveCfg = Release|Win32
 		{A4D83DEE-2C2D-44A1-B150-D0EAD7FD3106}.Release|x86.Build.0 = Release|Win32
+		{CC8A2B35-16A1-4A4B-861D-282966CAE91D}.Debug|x64.ActiveCfg = Debug|x64
+		{CC8A2B35-16A1-4A4B-861D-282966CAE91D}.Debug|x64.Build.0 = Debug|x64
+		{CC8A2B35-16A1-4A4B-861D-282966CAE91D}.Debug|x86.ActiveCfg = Debug|Win32
+		{CC8A2B35-16A1-4A4B-861D-282966CAE91D}.Debug|x86.Build.0 = Debug|Win32
+		{CC8A2B35-16A1-4A4B-861D-282966CAE91D}.Release|x64.ActiveCfg = Release|x64
+		{CC8A2B35-16A1-4A4B-861D-282966CAE91D}.Release|x64.Build.0 = Release|x64
+		{CC8A2B35-16A1-4A4B-861D-282966CAE91D}.Release|x86.ActiveCfg = Release|Win32
+		{CC8A2B35-16A1-4A4B-861D-282966CAE91D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
